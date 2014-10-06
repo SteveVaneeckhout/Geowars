@@ -1,0 +1,32 @@
+{
+  "name": "Geowars",
+  "version": "1.0.0",
+  "description": "A simple webgame based on Geometry Wars",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteveVaneeckhout/Geowars.git"
+  },
+  "keywords": [
+    "canvas",
+    "game"
+  ],
+  "author": "Steve Vaneeckhout",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SteveVaneeckhout/Geowars/issues"
+  },
+  "homepage": "https://github.com/SteveVaneeckhout/Geowars",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.6.0",
+    "grunt-contrib-less": "^0.11.4",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-express": "^1.4.1",
+    "grunt-open": "^0.2.3",
+    "grunt-typescript": "^0.3.8",
+    "typescript": "^1.0.1"
+  }
+}
