@@ -22,7 +22,7 @@
     "serve": "http-server ./src/"
   },
   "devDependencies": {
-    "http-server": "^0.12.3",
+    "http-server": "^14.1.1",
     "typescript": "^4.2.4"
   }
 }
